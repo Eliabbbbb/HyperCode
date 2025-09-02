@@ -9,16 +9,16 @@ class Integrante {
 
 const equipo = [
     new Integrante(
-        "Ana García", 
-        28, 
-        "Diseñadora UX/UI con más de 5 años de experiencia. Apasionada por crear interfaces intuitivas y hermosas que mejoren la experiencia del usuario.",
-        "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+        "Eliab Zamalloa", 
+        19, 
+        "Estudiante de Ingeniería de sistemas e informática del 6to ciclo en la Universidad Continental. Me encanta la música, sé tocar la guitarra y la batería",
+        "https://i.postimg.cc/4dfBSNBM/IMG-20250820-WA0025.jpg"
     ),
     new Integrante(
-        "Carlos Rodríguez", 
-        32, 
-        "Desarrollador Full Stack especializado en JavaScript. Le encanta resolver problemas complejos y aprender nuevas tecnologías.",
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+        "Gabriel Bernaola", 
+        19, 
+        "Estudiante de Ingeniería de sistemas e informática del 6to ciclo en la Universidad Continental. Me gustan los videojuegos y el basketball",
+        "https://i.postimg.cc/5t4YYzLJ/IMG-20250703-115529.jpg"
     ),
     new Integrante(
         "María López", 
