@@ -9,6 +9,13 @@ class Integrante {
 
 const equipo = [
     new Integrante(
+        "Alí Israel Astete Romero", 
+        24, 
+        "Desarrollador Backend, Estudiante de ingenieria de sistemas e informatica, especialista en software a medida, Apasionado por la musica y el orden en el codigo ",
+        "https://i.postimg.cc/pdm5xFjL/IMG-1056.jpg"
+    ),
+    
+    new Integrante(
         "Eliab Zamalloa", 
         19, 
         "Estudiante de Ingeniería de sistemas e informática del 6to ciclo en la Universidad Continental. Me encanta la música, sé tocar la guitarra y la batería",
