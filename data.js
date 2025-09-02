@@ -45,12 +45,7 @@ const equipo = [
         "Desarrolladora Frontend con expertise en React y Vue. Siempre busca implementar las mejores prácticas y código limpio.",
         "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
     ),
-    new Integrante(
-        "Alí Israel Astete Romero", 
-        24, 
-        "Especialista en SEO y análisis de datos. Su trabajo ha aumentado el tráfico orgánico de numerosos sitios web en más del 200%.",
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
-    ),
+    
     new Integrante(
         "Joaquin Romero Rueda", 
         19, 
