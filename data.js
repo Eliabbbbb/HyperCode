@@ -21,10 +21,10 @@ const equipo = [
         "https://i.postimg.cc/5t4YYzLJ/IMG-20250703-115529.jpg"
     ),
     new Integrante(
-        "María López", 
-        26, 
-        "Especialista en Marketing Digital con enfoque en redes sociales. Creativa y analítica, siempre busca la mejor estrategia para cada cliente.",
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
+        "Terry Chauca", 
+        20, 
+        "me gusta jugar valorant y tambien crear juegos en godot",
+        "https://i.postimg.cc/KcdsZFzK/IMG-20250901-WA0082.jpg"
     ),
     new Integrante(
         "Javier Martínez", 
