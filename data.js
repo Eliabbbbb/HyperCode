@@ -9,7 +9,7 @@ class Integrante {
 
 const equipo = [
     new Integrante(
-        "Alí Israel Astete Romero", 
+        "Alí Astete", 
         24, 
         "Desarrollador Backend, Estudiante de ingenieria de sistemas e informatica, especialista en software a medida, Apasionado por la musica y el orden en el codigo ",
         "https://i.postimg.cc/pdm5xFjL/IMG-1056.jpg"
@@ -34,7 +34,7 @@ const equipo = [
         "https://i.postimg.cc/KcdsZFzK/IMG-20250901-WA0082.jpg"
     ),
     new Integrante(
-        "Joaquin Romero Rueda", 
+        "Joaquin Romero", 
         19, 
         "Estudiante de ingeneria de sistemas, con gusto en desarrollo web y diseño web",
         "https://i.postimg.cc/sxxSnhV9/IMG-4040.jpg"
