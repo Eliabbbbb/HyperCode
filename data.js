@@ -34,19 +34,6 @@ const equipo = [
         "https://i.postimg.cc/KcdsZFzK/IMG-20250901-WA0082.jpg"
     ),
     new Integrante(
-        "Javier Martínez", 
-        35, 
-        "Project Manager con amplia experiencia en metodologías ágiles. Su liderazgo ha guiado exitosamente más de 20 proyectos.",
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
-    ),
-    new Integrante(
-        "Laura Fernández", 
-        29, 
-        "Desarrolladora Frontend con expertise en React y Vue. Siempre busca implementar las mejores prácticas y código limpio.",
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80"
-    ),
-    
-    new Integrante(
         "Joaquin Romero Rueda", 
         19, 
         "Estudiante de ingeneria de sistemas, con gusto en desarrollo web y diseño web",
