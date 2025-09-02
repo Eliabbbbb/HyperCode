@@ -1,8 +1,45 @@
 <!DOCTYPE html>
 <html lang="es">
-    
-    
-    
-    
-    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestro Equipo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Nuestro Equipo</h1>
+        <p>Conoce a las personas que hacen posible nuestro trabajo</p>
+    </header>
+
+    <main>
+        <section class="team-container" id="teamContainer">
+            <!-- Las imágenes del equipo se generarán con JavaScript -->
+        </section>
+    </main>
+
+    <aside class="social-section">
+        <h2>Conecta con nosotros</h2>
+        <div class="social-buttons">
+            <a href="#" class="social-btn blog"><i class="fas fa-blog"></i> Visita nuestro Blog</a>
+            <a href="#" class="social-btn facebook"><i class="fab fa-facebook-f"></i> Facebook</a>
+            <a href="#" class="social-btn twitter"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="#" class="social-btn instagram"><i class="fab fa-instagram"></i> Instagram</a>
+            <a href="#" class="social-btn linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+        </div>
+    </aside>
+
+    <div class="popup-overlay" id="popupOverlay">
+        <div class="popup-content">
+            <span class="close-btn" id="closePopup">&times;</span>
+            <div class="popup-body" id="popupBody">
+                <!-- El contenido del popup se generará con JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
 </html>
